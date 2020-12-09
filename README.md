@@ -9,20 +9,20 @@ through the Unsplash() API call. below are pictures of how web app is rendered.
 
 # Desktop View 
 
-![First Image](./public/images/0.pgn)
+![First Image](./public/images/0.png)
 
 
-![Second Image](./public/images/1.pgn)
+![Second Image](./public/images/1.png)
 
-![Third Image](./public/images/2.pgn)
-
-
-![Fourth Image](./public/images/3.pgn)
+![Third Image](./public/images/2.png)
 
 
-![Fifth Image](./public/images/4.pgn)
+![Fourth Image](./public/images/3.png)
+
+
+![Fifth Image](./public/images/4.png)
 
 
 # Mobile View 
 
-![mobile 1 Image](./public/images/mobile1.pgn)      ![mobile Image](./public/images/obile22.pgn)
+![mobile 1 Image](./public/images/mobile1.png)      ![mobile Image](./public/images/obile22.png)
