@@ -25,4 +25,4 @@ through the Unsplash() API call. below are pictures of how web app is rendered.
 
 # Mobile View 
 
-![mobile 1 Image](./public/images/mobile1.png)      ![mobile Image](./public/images/obile22.png)
+![mobile 1 Image](./public/images/mobile1.png)      ![mobile Image](./public/images/mobile22.png)
