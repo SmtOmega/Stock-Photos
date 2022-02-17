@@ -38,14 +38,15 @@ input:focus, .btn:focus {
 }
 .photo-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(368px, 1fr));
   gap: 32px;
-  place-items: center;
+  background-color: rgb(244, 247, 250);
 }
 .photo {
-  height: 280px;
+  height: 17.5rem;
   position: relative;
   overflow: hidden;
+
 }
 .photo h4 {
   margin-bottom: 8px;
@@ -61,6 +62,7 @@ input:focus, .btn:focus {
   object-fit: cover;
   display: block;
   border-radius: 5px;
+  
 }
 .photo-info {
   padding: 16px;
@@ -94,6 +96,9 @@ input:focus, .btn:focus {
 @media screen and (max-width: 800px){
   section {
     width: 90vw;
+  }
+  .photo-container{
+    display: grid;
   }
   input {
     width: 75vw;
